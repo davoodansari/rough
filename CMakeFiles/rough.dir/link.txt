@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/rough.dir/main.cpp.o  -o rough -rdynamic -L/home/dansari/hermes/lib -lhermes3d-cplx-debug -Wl,-rpath,/home/dansari/hermes/lib 
